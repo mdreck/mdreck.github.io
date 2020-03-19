@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/deetdigs.jpg"
 ---
 I'm a passionate analytics professional seeking to contribute to the success of an organization through data driven decision making and a relentless problem solving pursuit. Skilled in collecting, cleaning, and analyzing data through SQL, Python, PowerBI, Excel, and additional tools and technologies.
 
