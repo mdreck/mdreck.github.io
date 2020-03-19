@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /data-wrangling/
+permalink: /data-portfolio/
 title: "Data Portfolio"
 author_profile: true
 header:
