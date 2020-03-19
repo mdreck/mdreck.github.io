@@ -88,7 +88,7 @@ author:
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Portfolio"
   location         : "Detroit, MI"
-  email            :"mdreck@gmail.com"
+  email            : "mdreck@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
