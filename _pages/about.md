@@ -4,7 +4,11 @@ permalink: /about/
 header:
   image: "/images/zakim.jpg"
 ---
+I'm a passionate analytics professional seeking to contribute to the success of an organization through data driven decision making and a relentless problem solving pursuit. Skilled in collecting, cleaning, and analyzing data through SQL, Python, PowerBI, Excel, and additional tools and technologies.
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+I am beyond excited to develop and share my portfolio with this wonderful community as I continue to enhance my skillset! I love working with and learning from others, so please reach out for collaboration. Any and all advice is welcomed and greatly appreciated!
 
-Etc, etc, etc
+MSIT Data Science, Walsh College. Graduate of Hillsdale College with a Bachelor of Arts in Financial Management.
+
+https://www.linkedin.com/in/mdreck/
+
