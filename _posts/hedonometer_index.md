@@ -1,10 +1,10 @@
 ---
-title: "Hedonometer Index Exploratory Analysis and Forecast"
+title: "Hedonometer Index: Exploratory Analysis and Forecast"
 date: 2020-02-15
-tags: [data wrangling, data science, messy data]
+tags: [data analysis, data science, exploratory analysis, time series forecast]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Data Analysis, Data Science, Exploratory Analysis, Time Series Forecast"
 mathjax: "true"
 ---
 
