@@ -3,7 +3,7 @@ title: "Hedonometer Index: Exploratory Analysis and Forecast"
 date: 2020-02-15
 tags: [data analysis, data science, exploratory analysis, time series forecast]
 header:
-  image: 
+  image: "/images/hedonometer.PNG" 
 excerpt: "Data Analysis, Data Science, Exploratory Analysis, Time Series Forecast"
 mathjax: "true"
 ---
