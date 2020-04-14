@@ -3,7 +3,7 @@ Data Portfolio consisting of analyses and projects completed for academic, self-
 
 ## Contents
 
--### Data Analysis & Visualization
+### Data Analysis & Visualization
                     
  	The following analysis was performed on the Hedonometer Index from the University of Vermont (http://hedonometer.org/index.html).
 
