@@ -5,6 +5,7 @@ tags: [data analysis, data science, exploratory analysis, time series forecast]
 header:
   image: "/images/hedonometer.PNG" 
 excerpt: "Exploratory Analysis of Twitter's daily sentiment and time series forecast"
+mathjax: "true"
 ---
  The following analysis was performed on the Hedonometer Index from the University of Vermont (http://hedonometer.org/index.html).
 
