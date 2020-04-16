@@ -1,5 +1,6 @@
 ---
 title: "Bloomberg Automotive Analysis"
+date: 2020-03-11
 tags: [data analysis, data science, linear regression]
 header:
   image: "/images/hedonometer.PNG" 
