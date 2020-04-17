@@ -15,15 +15,15 @@ mathjax: "true"
 This Bloomberg automotive screening model performs a regression on automotive industry data to determine whether auto suppliers and manufacturers are being undervalued or overvalued. The data was downloaded using a Bloomberg Terminal. 
 In Bloomberg I used the ‘RAY 3000 Index’ command to pull up the Russell 3000 Index and deleted all columns except the Ticker and Name columns. I added columns by typing GICS in the fields search bar and added the following: Sector Name, Industry Name, Industry Group Name, Sub-Industry Name. The Russell 3000 index data was then exported from Bloomberg into excel.
 In excel, I sorted the Russell 3000 Index by GICS Sub-Industry Name and performed the following: 
-•	Removed all companies (rows) that did not include the Sub-Industry ‘Auto Parts and Equipment’ or ‘Automobile Manufacturers’
-•	Removed all columns other than the ‘Ticker’ and ‘Name’ columns and sort data A to Z
+- Removed all companies (rows) that did not include the Sub-Industry ‘Auto Parts and Equipment’ or ‘Automobile Manufacturers’
+- Removed all columns other than the ‘Ticker’ and ‘Name’ columns and sort data A to Z
 I used the Bloomberg excel add-in to add fundamental financial data related to growth, profitability and risk, and compared those factors to a valuation metric (The Bloomberg Excel add-in is only available when using a Bloomberg machine). 
 Use ‘Find Fields’ under the Bloomberg add-in tab to add financial data. I selected the following fields for my analysis:
-•	Independent Variables:
-o	‘SALES_3YR_AVG_GROWTH’ and ‘GROSS_MARGIN’ to measure of growth and profitability 
-o	‘TOT_DEBT_TO_EBITDA’ (Debt / EBITDA) is included as a factor of risk and measures a company’s debt exposure. EBITDA is a company’s earnings before interest, tax, depreciation, and amortization
-•	Dependent Variables:
-o	‘EV_TO_T12M_EBITDA’ (Enterprise Value / EBITDA) is a valuation metric that represents the fair market value of a company. Enterprise value = mkt cap + preferred shares + minority interest + debt – total cash
+- Independent Variables:
+  - ‘SALES_3YR_AVG_GROWTH’ and ‘GROSS_MARGIN’ to measure of growth and profitability 
+  - ‘TOT_DEBT_TO_EBITDA’ (Debt / EBITDA) is included as a factor of risk and measures a company’s debt exposure. EBITDA is a company’s earnings before interest, tax, depreciation, and amortization
+- Dependent Variables:
+  - ‘EV_TO_T12M_EBITDA’ (Enterprise Value / EBITDA) is a valuation metric that represents the fair market value of a company. Enterprise value = mkt cap + preferred shares + minority interest + debt – total cash
 Once the column fields were populated, I used the BDP function to pull data for each company. The functions are viewable on the hidden ‘Bloomberg Data’ sheet within the excel workbook (the values will not populate unless you are on a Bloomberg Terminal, so I copied and pasted that data as values in the ‘Model’ sheet).
 I’ve selected these measurements because it is reasonable to expect that companies with high sales growth, high gross margins, and low debt would have a higher valuation than companies with poor sales growth and gross margins, and high debt. I performed a regression to evaluate the performance of the stock screening model and determine if the independent variables are good predictors of the market valuation (dependent variable). Perform the regression using the Data Analysis ToolPak. Use the market valuation (EV_TO12M_EBITDA) as the ‘Input Y Range’ and the independent variables from above as the ‘Input X Range’.
  
