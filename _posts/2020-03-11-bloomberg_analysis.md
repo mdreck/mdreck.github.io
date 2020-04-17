@@ -24,6 +24,7 @@ Use ‘Find Fields’ under the Bloomberg add-in tab to add financial data. I se
   - ‘TOT_DEBT_TO_EBITDA’ (Debt / EBITDA) is included as a factor of risk and measures a company’s debt exposure. EBITDA is a company’s earnings before interest, tax, depreciation, and amortization
 - Dependent Variables:
   - ‘EV_TO_T12M_EBITDA’ (Enterprise Value / EBITDA) is a valuation metric that represents the fair market value of a company. Enterprise value = mkt cap + preferred shares + minority interest + debt – total cash
+
 Once the column fields were populated, I used the BDP function to pull data for each company. The functions are viewable on the hidden ‘Bloomberg Data’ sheet within the excel workbook (the values will not populate unless you are on a Bloomberg Terminal, so I copied and pasted that data as values in the ‘Model’ sheet).
 I’ve selected these measurements because it is reasonable to expect that companies with high sales growth, high gross margins, and low debt would have a higher valuation than companies with poor sales growth and gross margins, and high debt. I performed a regression to evaluate the performance of the stock screening model and determine if the independent variables are good predictors of the market valuation (dependent variable). Perform the regression using the Data Analysis ToolPak. Use the market valuation (EV_TO12M_EBITDA) as the ‘Input Y Range’ and the independent variables from above as the ‘Input X Range’.
  
