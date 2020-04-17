@@ -3,7 +3,7 @@ title: "Bloomberg Automotive Analysis"
 date: 2020-03-11
 tags: [data analysis, data science, linear regression]
 header:
-  image: "/images/hedonometer.PNG" 
+  image: "/images/automobile-production.PNG" 
 excerpt: "Automotive screening model to determine over/undervaluation of auto manufacturers and suppliers"
 mathjax: "true"
 ---
