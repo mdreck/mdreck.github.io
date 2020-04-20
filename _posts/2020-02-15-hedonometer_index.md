@@ -11,6 +11,6 @@ mathjax: "true"
 
 - [The Hedonometer Index: A Happiness Forecast](https://github.com/mdreck/mdreck.github.io/blob/master/hedonometer_index/Hedonometer_Index.ipynb): Exploratory Analysis of Twitter's daily sentiment and time series forecast.
 
-The raw data is available [here](https://github.com/mdreck/mdreck.github.io/blob/master/hedonometer_index/data/hedonometer_index.csv)
+The raw data is available [here](https://github.com/mdreck/mdreck.github.io/blob/master/hedonometer_index/data/hedonometer_index.csv).
                     
 _The Jupyter notebook above was presented to an audience of professors, peers, and professionals from various backgrounds as part of a Graduate Capstone project._
