@@ -7,7 +7,7 @@ header:
 excerpt: "Exploratory Analysis of Twitter's daily sentiment and time series forecast"
 mathjax: "true"
 ---
- The following analysis was performed on the [Hedonometer Index] from the University of Vermont (http://hedonometer.org/index.html).
+ The following analysis was performed on the [Hedonometer Index](http://hedonometer.org/index.html) from the University of Vermont.
 
 - [The Hedonometer Index: A Happiness Forecast](https://github.com/mdreck/mdreck.github.io/blob/master/hedonometer_index/Hedonometer_Index.ipynb): Exploratory Analysis of Twitter's daily sentiment and time series forecast.
 
