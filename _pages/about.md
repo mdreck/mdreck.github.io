@@ -10,4 +10,4 @@ I am beyond excited to develop and share my portfolio with this wonderful commun
 
 MSIT Data Science, Walsh College. Graduate of Hillsdale College with a Bachelor of Arts in Financial Management.
 
-https://www.linkedin.com/in/mdreck/
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mdreck/)
