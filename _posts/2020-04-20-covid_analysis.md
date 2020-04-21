@@ -11,6 +11,8 @@ This Power BI Dashboard examines the daily and cumulative COVID-19 confirmed cas
  
 - To interact with the data, click the following [link](https://github.com/mdreck/mdreck.github.io/blob/master/covid_analysis/UScovid.pbix) and download the Power BI Dashboard (MS Power BI Pro account required), or view the PDF [here](https://github.com/mdreck/mdreck.github.io/blob/master/covid_analysis/UScovid.pdf).
 
+  _Tools: Pandas, MS Power BI_
+
 The data was cleaned and merged using Pandas. View the Jupyter notebook [here](https://github.com/mdreck/mdreck.github.io/blob/master/covid_analysis/US_covid.ipynb).
 
 The [data](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series) was collected from Johns Hopkins University Center for Systems Science and Engineering.
