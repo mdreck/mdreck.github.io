@@ -3,7 +3,7 @@ title: "United States COVID-19 Dashboard"
 date: 2020-04-20
 tags: [data analysis, data science, data cleaning, data visualization]
 header:
-  image: "/images/automobile-production.png" 
+  image: "/images/covid.PNG" 
 excerpt: "Visualizing COVID-19's timeline since the first confirmed case and its impact on the United States"
 mathjax: "true"
 ---
