@@ -9,7 +9,7 @@ mathjax: "true"
 ---
 This Power BI Dashboard examines the daily and cumulative COVID-19 confirmed cases and deaths across the United States and its territories. I will do my best to update this dashboard with the most recent data available.
  
-- To interact with the data, click the following [link](https://app.powerbi.com/groups/me/reports/0491d31a-f98d-418c-9200-6d86a0d18911?ctid=dd741547-183d-4a96-85e7-0cced00b3489) (MS Power BI Pro account required), or view the PDF [here](https://github.com/mdreck/mdreck.github.io/blob/master/covid_analysis/UScovid.pdf).
+- To interact with the data, click the following [link](https://app.powerbi.com/groups/me/reports/0491d31a-f98d-418c-9200-6d86a0d18911?ctid=dd741547-183d-4a96-85e7-0cced00b3489) (MS Power BI Pro account required) or view the PDF [here](https://github.com/mdreck/mdreck.github.io/blob/master/covid_analysis/UScovid.pdf).
 
   _Tools: Pandas, MS Power BI_
 
