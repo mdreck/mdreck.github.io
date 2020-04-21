@@ -4,7 +4,7 @@ date: 2020-03-10
 tags: [data analysis, data science, linear regression]
 header:
   image: "/images/automobile-production.png" 
-excerpt: "Automotive screening model to determine over/undervaluation of auto manufacturers and suppliers. _Tools: Bloomberg Terminal, Bloomberg MS Excel add-in, MS Excel_ "
+excerpt: "Automotive screening model to determine over/undervaluation of auto manufacturers and suppliers. _Tools: Bloomberg Terminal, Bloomberg MS Excel add-in, MS Excel_"
 mathjax: "true"
 ---
 - Click the following [link](https://github.com/mdreck/mdreck.github.io/blob/master/bloomberg_analysis/bloomberg_analysis.xlsx) and download the Excel file or view the PDF [here](https://github.com/mdreck/mdreck.github.io/blob/master/bloomberg_analysis/bloomberg_analysis.pdf).
