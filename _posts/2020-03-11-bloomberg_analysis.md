@@ -12,7 +12,7 @@ mathjax: "true"
 - [Bloomberg Automotive Analysis (PDF)](https://github.com/mdreck/mdreck.github.io/blob/master/bloomberg_analysis/bloomberg_analysis.pdf): Click link to view PDF.
 
 ### Bloomberg Automotive Screening Model
- This Bloomberg automotive screening model performs a regression on automotive industry data to determine whether auto suppliers and manufacturers are being undervalued or overvalued. The data was downloaded using a Bloomberg Terminal.
+ The Bloomberg automotive screening model above, performs a regression on automotive industry data to determine whether auto suppliers and manufacturers are being undervalued or overvalued. The data was downloaded using a Bloomberg Terminal.
  
 In Bloomberg I used the ‘RAY 3000 Index’ command to pull up the Russell 3000 Index and deleted all columns except the Ticker and Name columns. I added columns by typing GICS in the fields search bar and added the following: Sector Name, Industry Name, Industry Group Name, Sub-Industry Name. The Russell 3000 index data was then exported from Bloomberg into excel.
 In excel, I sorted the Russell 3000 Index by GICS Sub-Industry Name and performed the following: 
