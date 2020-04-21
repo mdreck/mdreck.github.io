@@ -6,7 +6,7 @@ Data Portfolio consisting of analyses and projects completed for academic, self-
 - ### Data Analysis & Visualization
                     
 	- __Python__
-		- [The Hedonometer Index: A Happiness Forecast](https://mdreck.github.io/hedonometer_index/): Exploratory Analysis of Twitter's daily sentiment and happiness forecast. 
+		- [The Hedonometer Index: A Happiness Forecast](https://mdreck.github.io/Hedonometer_Index/): Exploratory Analysis of Twitter's daily sentiment and happiness forecast. 
 			
 			_Tools: Pandas, Prophet, Seaborn, Matplotlib, SciPy, statsmodels, PyLab_  
 		
