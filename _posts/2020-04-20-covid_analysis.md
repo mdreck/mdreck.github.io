@@ -13,4 +13,4 @@ This Power BI Dashboard examines the daily and cumulative COVID-19 confirmed cas
 
 The data was cleaned and merged using Pandas. View the Jupyter notebook [here](https://github.com/mdreck/mdreck.github.io/blob/master/covid_analysis/US_covid.ipynb).
 
-The data was collected from [Johns Hopkins University Center for Systems Science and Engineering](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series).
+The [data](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series) was collected from Johns Hopkins University Center for Systems Science and Engineering.
