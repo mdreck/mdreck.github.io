@@ -1,6 +1,6 @@
 ---
 title: "Hedonometer Index: A Happiness Forecast"
-date: 2020-02-15
+date: 2020-03-09
 tags: [data analysis, data science, exploratory analysis, time series forecast]
 header:
   image: "/images/hedonometer.PNG" 
