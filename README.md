@@ -12,7 +12,7 @@ Data Portfolio consisting of analyses and projects completed for academic, self-
 		
 		- [United States COVID-19 Dashboard](https://mdreck.github.io/covid_analysis/): Power BI Dashboard examining COVID-19's spread of infection and its mortality rate across the United States and its territories.
 		
-			_Tools: Pandas, MS Power BI 
+			_Tools: Pandas, MS Power BI_
                     
 	- __Excel__
 		- [Bloomberg Automotive Analysis](https://mdreck.github.io/bloomberg_analysis/): Automotive screening model to determine over/undervaluation of auto manufacturers and suppliers. 
