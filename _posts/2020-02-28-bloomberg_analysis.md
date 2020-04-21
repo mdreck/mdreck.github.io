@@ -7,7 +7,9 @@ header:
 excerpt: "Automotive screening model to determine over/undervaluation of auto manufacturers and suppliers. _Tools: Bloomberg Terminal, Bloomberg MS Excel add-in, MS Excel_"
 mathjax: "true"
 ---
-- Click the following [link](https://github.com/mdreck/mdreck.github.io/blob/master/bloomberg_analysis/bloomberg_analysis.xlsx) and download the Excel file or view the PDF [here](https://github.com/mdreck/mdreck.github.io/blob/master/bloomberg_analysis/bloomberg_analysis.pdf).
+- Click the following [link](https://github.com/mdreck/mdreck.github.io/blob/master/bloomberg_analysis/bloomberg_analysis.xlsx) and download the Excel file or view the PDF [here](https://github.com/mdreck/mdreck.github.io/blob/master/bloomberg_analysis/bloomberg_analysis.pdf)
+
+  _Tools: Bloomberg Terminal, Bloomberg MS Excel add-in, MS Excel_
 
 ### Bloomberg Automotive Screening Model
  The Bloomberg automotive screening model above, performs a regression on automotive industry data to determine whether auto suppliers and manufacturers are being undervalued or overvalued. The data was downloaded using a Bloomberg Terminal.
