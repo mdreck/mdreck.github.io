@@ -10,7 +10,7 @@ Data Portfolio consisting of analyses and projects completed for academic, self-
 			
 			_Tools: Pandas, Prophet, Seaborn, Matplotlib, SciPy, statsmodels, PyLab_  
 		
-		- [United States COVID-19 Dashboard](https://mdreck.github.io/covid_analysis/): Power BI Dashboard examining COVID-19's spread of infection and its mortality rate across the United States and its territories.
+		- [United States COVID-19 Dashboard](https://mdreck.github.io/covid_analysis/): Power BI Dashboard examining the mortaility rate and spread of COVID-19 across the United States and its territories.
 		
 			_Tools: Pandas, MS Power BI_
                     
