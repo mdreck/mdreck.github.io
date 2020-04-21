@@ -1,6 +1,6 @@
 ---
 title: "Bloomberg Automotive Analysis"
-date: 2020-03-10
+date: 2020-02-28
 tags: [data analysis, data science, linear regression]
 header:
   image: "/images/automobile-production.png" 
