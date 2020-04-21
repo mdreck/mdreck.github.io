@@ -4,7 +4,7 @@ date: 2020-04-20
 tags: [data analysis, data science, data cleaning, data visualization]
 header:
   image: "/images/covid.PNG" 
-excerpt: "Power BI Dashboard examining the mortaility rate and spread of COVID-19 across the United States and its territories"
+excerpt: "Power BI Dashboard examining the mortaility rate and spread of COVID-19 across the United States and its territories. _Tools: Pandas, MS Power BI_"
 mathjax: "true"
 ---
 This Power BI Dashboard examines the daily and cumulative COVID-19 confirmed cases and deaths across the United States and its territories. I will do my best to update this dashboard with the most recent data available.
