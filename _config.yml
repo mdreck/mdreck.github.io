@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Matthew Reck"
 title_separator          : "-"
 name                     : "Matthew Reck"
-description              : "Data Analyst"
+description              : "Data Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Matthew Reck"
   avatar           : "/images/gitpic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Portfolio"
+  bio              : "Data Analyst"
   location         : "Detroit, MI"
   email            : "mdreck@gmail.com"
   uri              :
