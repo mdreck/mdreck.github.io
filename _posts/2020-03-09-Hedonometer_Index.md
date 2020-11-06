@@ -11,8 +11,8 @@ mathjax: "true"
 
 - [The Hedonometer Index: A Happiness Forecast](https://github.com/mdreck/mdreck.github.io/blob/master/hedonometer_index/Hedonometer_Index.ipynb): Time series forecast of Twitter's daily sentiment 
 
-  _Tools: Pandas, Prophet, Seaborn, Matplotlib, SciPy, statsmodels, PyLab_ 
-
 The raw data used in the analysis is available [here](https://github.com/mdreck/mdreck.github.io/blob/master/hedonometer_index/data/hedonometer_index.csv).
+
+_Tools: Pandas, Prophet, Seaborn, Matplotlib, SciPy, statsmodels, PyLab_ 
                     
 _The Jupyter notebook above was presented to an audience of professors, peers, and professionals from various backgrounds as part of a Graduate Capstone project._
