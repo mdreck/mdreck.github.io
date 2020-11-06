@@ -1,5 +1,5 @@
 ---
-title: "Washington Post- Fatal Police Shootings"
+title: "Fatal Police Shootings"
 date: 2020-11-04
 tags: [data analysis, data cleaning, data visualization]
 header:
