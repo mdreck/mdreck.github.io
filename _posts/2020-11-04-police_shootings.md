@@ -11,6 +11,6 @@ This notebook examines and visualizes the Washington Post's database of every fa
  
 - To interact with the notebook and Plotly visualizations, click the following [link](https://nbviewer.jupyter.org/github/mdreck/mdreck.github.io/blob/master/police_shootings/wp_police_shootings.ipynb#) to interact with the data or view the [PDF] (https://github.com/mdreck/mdreck.github.io/blob/master/police_shootings/wp_police_shootings.pdf) if any of the visualizations don't populate
 
-*The header image of the United States is a visualization from the analysis that struggles to populate on github and nbviewer, I've included it above as a reference.
+*The header image of the United States is a visualization from the analysis that struggles to populate on github and nbviewer, I've included it above as a reference.*
 
 _Tools: Pandas, Plotly_
