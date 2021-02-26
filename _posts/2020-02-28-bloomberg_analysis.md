@@ -4,7 +4,7 @@ date: 2020-02-28
 tags: [data analysis, data science, linear regression]
 header:
   image: "/images/automobile-production.png" 
-excerpt: "Linear regression determining whether auto manufacturers and suppliers are overvalued or undervalued. _Tools: Bloomberg Terminal, Bloomberg MS Excel add-in, MS Excel_"
+excerpt: "Linear regression determining whether auto manufacturers and suppliers are overvalued or undervalued. _Tools: Bloomberg Terminal, MS Excel_"
 mathjax: "true"
 ---
 - Click the following link to download the [MS Excel file](https://github.com/mdreck/mdreck.github.io/blob/master/bloomberg_analysis/bloomberg_auto_analysis.xlsm) or view the PDF [here](https://github.com/mdreck/mdreck.github.io/blob/master/bloomberg_analysis/bloomberg_auto_analysis.pdf)
