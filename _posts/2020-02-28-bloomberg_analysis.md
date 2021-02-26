@@ -7,7 +7,7 @@ header:
 excerpt: "Linear regression determining whether auto manufacturers and suppliers are overvalued or undervalued. _Tools: Bloomberg Terminal, Bloomberg MS Excel add-in, MS Excel_"
 mathjax: "true"
 ---
-- Click the following [link](https://github.com/mdreck/mdreck.github.io/blob/master/bloomberg_analysis/bloomberg_auto_analysis.xlsx) to download the MS Excel file or view the [PDF](https://github.com/mdreck/mdreck.github.io/blob/master/bloomberg_analysis/bloomberg_analysis.pdf)
+- Click the following link to download the [MS Excel file](https://github.com/mdreck/mdreck.github.io/blob/master/bloomberg_analysis/bloomberg_auto_analysis.xlsx) or view the PDF [here](https://github.com/mdreck/mdreck.github.io/blob/master/bloomberg_analysis/bloomberg_analysis.pdf)
 
   _Tools: Bloomberg Terminal, Bloomberg MS Excel add-in, MS Excel_
 
