@@ -9,7 +9,7 @@ mathjax: "true"
 ---
 - Click the following link to download the [MS Excel file](https://github.com/mdreck/mdreck.github.io/blob/master/bloomberg_analysis/bloomberg_auto_analysis.xlsx) or view the PDF [here](https://github.com/mdreck/mdreck.github.io/blob/master/bloomberg_analysis/bloomberg_analysis.pdf)
 
-  _Tools: Bloomberg Terminal, Bloomberg MS Excel add-in, MS Excel_
+  _Tools: Bloomberg Terminal, MS Excel_
 
 ### Bloomberg Automotive Analysis
  The Bloomberg automotive analysis above, performs a regression on automotive industry data to determine whether auto suppliers and manufacturers are being undervalued or overvalued. The data was downloaded using a Bloomberg Terminal.
