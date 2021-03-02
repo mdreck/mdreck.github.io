@@ -11,4 +11,4 @@ I am excited to develop and share my portfolio with this incredible community as
 MSIT Data Science, Walsh College\
 BA Financial Management, Hillsdale College
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/mdreck/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mdreck/)!
