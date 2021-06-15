@@ -13,4 +13,4 @@ This notebook examines and visualizes the Washington Post's database of every fa
 
 _Tools: Pandas, Plotly_
 
-*The header image of the United States struggles to populate on github and nbviewer, I've included it above as a reference.*
+*The header image of the US may fail to populate on github and nbviewer, I've included it above as a reference in case of failure.*
