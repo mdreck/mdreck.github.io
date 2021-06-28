@@ -1,6 +1,6 @@
 ---
 title: "United States COVID-19 Dashboard"
-date: 2021-06-20
+date: 2021-06-27
 tags: [data analysis, data science, data cleaning, data visualization]
 header:
   image: "/images/covid.PNG" 
